@@ -17,3 +17,6 @@ endorse group group_name to read objects in tenancy reporting
 - modify only those lines in the code which has a comment `Update these values`
 - run the script
 
+<br><br>
+> **Disclaimer**: This is a personal repository. All views or opinions represented here are personal and belong solely to contributors of the repo and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity, unless explicitly stated.<br><br>Also please note, resources deployed using these example scripts may incur charges. Make sure to terminate the deployed resources/services after your tests, to save/minimize your bills.<br><br>
+This is a replication of original code available at [this](https://docs.oracle.com/en-us/iaas/Content/Billing/Tasks/accessingusagereports.htm) oracle webpage. Code belongs to Oracle.
